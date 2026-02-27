@@ -1,0 +1,4 @@
+dm-env==1.6
+numpy==2.1.3
+matplotlib
+
